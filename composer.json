@@ -1,0 +1,19 @@
+
+
+
+{
+    "name": "mp/le-jeu-des-def",
+    "description": "Projet_Lejeudesdef",
+    "authors": [
+        {
+            "name": "maximilienpy",
+            "email": "max314116@gmail.com"
+        }
+    ],
+    "require": {
+        "autoload": {
+            "psr-4": {"App\\": "src/"}
+                    }
+            }
+       
+}
